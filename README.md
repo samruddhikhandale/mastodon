@@ -62,7 +62,7 @@ Mastodon acts as an OAuth2 provider, so 3rd party apps can use the REST and Stre
 
 ## Deployment
 
-## Getting Started
+### Getting Started with GitHub Codespaces
 
 To get started, create a codespace for this repository by clicking this 👇
 
